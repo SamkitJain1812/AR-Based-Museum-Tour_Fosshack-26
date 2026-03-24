@@ -8,9 +8,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400;500;600;700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Crimson+Pro:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap" rel="stylesheet">
 
 <style>
-/* ═══════════════════════════════════════════
-   TOKENS
-═══════════════════════════════════════════ */
+/* Token */
 :root {
   --gold:       #C9A84C;
   --gold-lt:    #E8C97A;
@@ -41,9 +39,6 @@ body {
   color: var(--parchment);
 }
 
-/* ═══════════════════════════════════════════
-   GRAIN OVERLAY (aged paper/film texture)
-═══════════════════════════════════════════ */
 body::after {
   content: '';
   position: fixed; inset: 0; z-index: 9999;
@@ -54,18 +49,14 @@ body::after {
   opacity: 0.6;
 }
 
-/* ═══════════════════════════════════════════
-   APP
-═══════════════════════════════════════════ */
+/* APP */
 #app {
   width: 100vw; height: 100vh;
   position: relative; overflow: hidden;
   display: flex; flex-direction: column;
 }
 
-/* ═══════════════════════════════════════════
-   ── INTRO SCREEN ──
-═══════════════════════════════════════════ */
+/*   ── INTRO SCREEN ── */
 #intro {
   position: fixed; inset: 0; z-index: 500;
   display: flex; flex-direction: column;
@@ -244,9 +235,7 @@ body::after {
   text-transform: uppercase;
 }
 
-/* ═══════════════════════════════════════════
-   ── DASHBOARD ──
-═══════════════════════════════════════════ */
+/* ── DASHBOARD ── */
 #dashboard {
   display: none; width: 100%; height: 100%;
   flex-direction: column; position: relative;
@@ -732,9 +721,7 @@ body::after {
 .world-tab-name { display: none; }
 @media(min-width: 460px) { .world-tab-name { display: inline; } }
 
-/* ═══════════════════════════════════════════
-   AR OVERLAY
-═══════════════════════════════════════════ */
+/*   AR OVERLAY */
 #ar-overlay {
   display: none;
   position: fixed; inset: 0; z-index: 600;
@@ -797,9 +784,7 @@ body::after {
 }
 .btn-ancient-sm-text { position: relative; z-index: 1; }
 
-/* ═══════════════════════════════════════════
-   TOAST
-═══════════════════════════════════════════ */
+/*  TOAST */
 .toast {
   position: fixed; bottom: 72px; left: 50%; transform: translateX(-50%);
   padding: 8px 22px;
@@ -813,9 +798,7 @@ body::after {
 }
 .toast.show { opacity: 1; }
 
-/* ═══════════════════════════════════════════
-   RESPONSIVE
-═══════════════════════════════════════════ */
+/*RESPONSIVE */
 @media (max-width: 600px) {
   .card-body { flex-direction: column; }
   .card-right {
@@ -844,9 +827,7 @@ body::after {
 <body>
 <div id="app">
 
-<!-- ═══════════════════════════════════════════
-     INTRO SCREEN
-═══════════════════════════════════════════ -->
+<!--INTRO SCREEN-->
 <div id="intro">
   <div class="intro-bg"></div>
   <div class="intro-candle-glow"></div>
@@ -924,9 +905,7 @@ body::after {
 </div>
 
 
-<!-- ═══════════════════════════════════════════
-     WORLD BACKGROUNDS
-═══════════════════════════════════════════ -->
+<!--WORLD BACKGROUNDS-->
 <div id="world-bg">
 
   <!-- INDIA — Taj Mahal at dusk (id updated to bg-taj) -->
@@ -1820,9 +1799,7 @@ body::after {
 </div><!-- /world-bg -->
 
 
-<!-- ═══════════════════════════════════════════
-     DASHBOARD
-═══════════════════════════════════════════ -->
+<!--DASHBOARD -->
 <div id="dashboard">
 <div id="dash-inner">
 
