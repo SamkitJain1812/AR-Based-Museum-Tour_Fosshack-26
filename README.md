@@ -228,19 +228,6 @@ The gamified restoration module turns passive museum browsing into active learni
 - Gaurav Singh
 - Sahil Rawat
 
-Built with ☕, cold food, lo-fi music, and zero sleep at **FossHack 2026** — organised by **The FOSS Club**.
-
----
-
-## 🏆 Hackathon
-
-| Detail | Info |
-|---|---|
-| **Event** | FossHack 2026 (36-hour hackathon) |
-| **Organiser** | The FOSS Club |
-| **Website** | [fossunited.org/hack/fosshack26](https://fossunited.org/hack/fosshack26) |
-| **Theme** | Open-source technology for real-world impact |
-
 ---
 
 <div align="center">
