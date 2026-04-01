@@ -4,7 +4,6 @@
 
 ### *An immersive AR platform that brings 5,000 years of human civilisation into your physical space*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-gold.svg)](LICENSE)
 [![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB?logo=react)](https://reactjs.org/)
 [![AR.js](https://img.shields.io/badge/AR-AR.js-orange)](https://ar-js-org.github.io/AR.js-Docs/)
 [![Three.js](https://img.shields.io/badge/3D-Three.js-black?logo=three.js)](https://threejs.org/)
@@ -101,11 +100,11 @@ npm -v       # npm v9 or higher
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/SamkitJain1812/AR-Based-Museum-Tour.git
+git clone https://github.com/SamkitJain1812/AR-Based-Museum-Tour_Fosshack-26.git
 ```
 
 ```bash
-cd AR-Based-Museum-Tour
+cd AR-Based-Museum-Tour_Fosshack-26
 ```
 
 ---
@@ -206,7 +205,7 @@ Most web AR solutions place models on flat surfaces. ExhibitX uses live GPS `wat
 ExhibitX is built to promote Indian cultural heritage to the world, while making it accessible to every Indian student regardless of geography or economic background.
 
 **4. Open Source**
-Fully open source under MIT license. Any museum, school, or cultural organisation can fork and deploy their own instance.
+Fully open source under Apache- 2.0 license. Any museum, school, or cultural organisation can fork and deploy their own instance.
 
 **5. Education + Gamification**
 The gamified restoration module turns passive museum browsing into active learning — students *repair* artifacts, not just view them.
@@ -224,12 +223,10 @@ The gamified restoration module turns passive museum browsing into active learni
 
 ## 👥 Team ExhibitX
 
-| Name | GitHub |
-|---|---|
-| **Samkit Jain** | [@SamkitJain1812](https://github.com/SamkitJain1812) |
-| **Sonu Jha** | [@Sonu-Jha24](https://github.com/Sonu-Jha24) |
-| **Gaurav Singh** | — |
-| **Sahil Rawat** | — |
+- Samkit Jain
+- Sonu Jha
+- Gaurav Singh
+- Sahil Rawat
 
 Built with ☕, cold food, lo-fi music, and zero sleep at **FossHack 2026** — organised by **The FOSS Club**.
 
