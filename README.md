@@ -7,7 +7,6 @@
 [![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB?logo=react)](https://reactjs.org/)
 [![AR.js](https://img.shields.io/badge/AR-AR.js-orange)](https://ar-js-org.github.io/AR.js-Docs/)
 [![Three.js](https://img.shields.io/badge/3D-Three.js-black?logo=three.js)](https://threejs.org/)
-[![FossHack 2026](https://img.shields.io/badge/Hackathon-FossHack%2026-green)](https://fossunited.org/hack/fosshack26)
 
 <br/>
 
@@ -29,7 +28,6 @@ Traditional museums fail modern audiences in three critical ways:
 
 No app download. No AR headset. No travel. Just open a link and step inside history.
 
-Built and submitted at **FossHack 2026**, organised by **The FOSS Club**.
 
 ---
 
