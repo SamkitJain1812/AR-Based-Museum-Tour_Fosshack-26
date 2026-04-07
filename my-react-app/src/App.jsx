@@ -3,7 +3,7 @@ import Firstpage from './Firstpage'
 
 const App = () => {
   return (
-    <div>App</div>
+    <Firstpage />
   )
 }
 
