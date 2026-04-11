@@ -223,8 +223,8 @@ The gamified restoration module turns passive museum browsing into active learni
 
 - Samkit Jain
 - Sonu Jha
-- Gaurav Singh
-- Sahil Rawat
+- Amogh Raj
+- Monu Jha
 
 ---
 
